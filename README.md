@@ -38,9 +38,11 @@ El objetivo principal es ayudar a desarrolladores y usuarios a gestionar el hist
 
 ## Instalación y Uso
 
-### 1. Requisitos
-
-Asegúrate de tener **Python 3.x** instalado en tu sistema.
+### Prerrequisitos
+- Python 3.8 o superior
+- Windows 10/11
+- Permisos de administrador (recomendado)
+---
 
 ### 2. Ejecución
 
@@ -60,11 +62,6 @@ Dado que solo utiliza librerías estándar de Python, no se requiere ninguna ins
 3.  **Actualizar Lista:** Haz clic en **"Actualizar Lista"** para cargar todos los archivos `.py` encontrados, ordenados por fecha de modificación (los más antiguos primero).
 4.  **Selección:** Utiliza los *checkboxes* o los botones **"Seleccionar Todos" / "Deseleccionar Todos"** para elegir qué archivos serán procesados.
 
-### Prerrequisitos
-- Python 3.8 o superior
-- Windows 10/11
-- Conexión a internet (para análisis con IA)
-- Permisos de administrador (recomendado)
 ---
 
 ## 👨‍💻 Autor
