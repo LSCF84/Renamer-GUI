@@ -2,6 +2,8 @@
    
 # Version Renamer GUI (Renombrador de Versiones con Interfaz Gráfica)
 
+</div>
+
 ##  Resumen del Proyecto
 
 Esta es una aplicación de escritorio desarrollada en **Python** utilizando **Tkinter** para proporcionar una solución **intuitiva y segura** para renombrar archivos dentro de un directorio, aplicando un sistema de versionado automático.
